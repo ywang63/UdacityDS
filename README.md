@@ -8,7 +8,7 @@ This is the repository where I store my Udacity projects.
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
-Download csv data at [2020 Developer Survey](https://insights.stackoverflow.com/survey/2020)
+Download csv data at [2020 Developer Survey](https://insights.stackoverflow.com/survey/2020). 
 No additional installation is needed. The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
