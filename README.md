@@ -23,4 +23,4 @@ The insight summary is at the bottom of the Jupyter Notebook file listed by bull
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Shout out to the data from [2020 Developer Survey](https://insights.stackoverflow.com/survey/2020).
+Shout out to [2020 Developer Survey](https://insights.stackoverflow.com/survey/2020) for having this data open to the community.
