@@ -19,7 +19,7 @@ The project a data analysis work conducted based on 2020 StackOverFlow Survey Da
 Markdown cells were used to explain my thought process and structure of the project.
 
 ## Results <a name="results"></a>
-The insight summary is at the bottom of the Jupyter Notebook file listed by bullet points. 
+The insight summary is at the bottom of the Jupyter Notebook file listed by bullet points. A Medium blog posted at: https://yidanwang123.medium.com/2020-stackoverflow-survey-insight-analysis-94c5611524aa
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
