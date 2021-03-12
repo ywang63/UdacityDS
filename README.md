@@ -22,5 +22,4 @@ Markdown cells were used to explain my thought process and structure of the proj
 The insight summary is at the bottom of the Jupyter Notebook file listed by bullet points. A Medium blog posted at: https://yidanwang123.medium.com/2020-stackoverflow-survey-insight-analysis-94c5611524aa
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-
-Shout out to Derrick Sherrill for creating a straightforward tutorial video (https://youtu.be/ZlxgW_65GF8)
+Shout out to StackOverFlow for providing this open source data.
